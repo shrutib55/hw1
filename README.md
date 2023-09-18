@@ -1,1 +1,1 @@
-## To run this code, thhe data files are given for the happiness index dataset. There are two files, the link is already included in the code, so there should be no need to input it yourself for it to run.
+## To run this code, the data files are given for the happiness index dataset. There are two files, the link is already included in the code, so there should be no need to input it yourself for it to run.
